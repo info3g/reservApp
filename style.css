@@ -1,0 +1,21 @@
+th, td {
+    padding: 10px;
+}
+img {
+    width: 100px;
+}
+textarea#add_css {
+    height: 250px;
+    width: 405px;
+}
+textarea#generate_code {
+    width: 405px;
+}
+a.revise_button {
+    background: #ececec;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
